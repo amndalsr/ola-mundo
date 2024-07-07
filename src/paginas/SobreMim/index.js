@@ -11,7 +11,7 @@ export default function SobreMim() {
 
       <img
         src={fotoSobreMim}
-        alt="Foto do Antônio Evaldo sorrindo"
+        alt="Foto da Amanda sorrindo"
         className={styles.fotoSobreMim}
       />
 
